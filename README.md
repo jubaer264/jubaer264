@@ -6,6 +6,9 @@
 ### <div align="center">Hi ! i am jubaer PHP & laravel developer </div>  
   
 
+I am a graphic designer and web developer with extensive experience in freelance marketplaces. I specialize in PHP and Laravel, and I have created numerous e-commerce websites and inventory management systems. My skills in design and development allow me to deliver comprehensive digital solutions, from concept to implementation, ensuring both visual appeal and functionality.  
+  
+
 - 🔭 I’m currently working on E-commerce project  
   
 
@@ -13,9 +16,6 @@
   
 
 - ❓ Ask me about web development with PHP & laravel  
-  
-
--   
   
 
 <br/>  
